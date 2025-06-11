@@ -1,0 +1,6 @@
+[submodule "pet_shop_mobile"]
+	path = pet_shop_mobile
+	url = https://github.com/vuongps38770/pet_shop_mobile.git
+[submodule "pet_shop_api_server"]
+	path = pet_shop_api_server
+	url = https://github.com/vuongps38770/pet_shop_api_server.git
