@@ -4,3 +4,6 @@
 [submodule "pet_shop_api_server"]
 	path = pet_shop_api_server
 	url = https://github.com/vuongps38770/pet_shop_api_server.git
+[submodule "pet_shop_web_admin"]
+	path = pet_shop_web_admin
+	url = https://github.com/nhanbui2005/DU_AN_TOT_NGHIEP_WEB_ADMIN.git
